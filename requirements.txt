@@ -1,0 +1,9 @@
+# manually install the following packages
+# jax
+# jaxlib
+
+streamlit
+pandas
+numpy
+matplotlib
+black
